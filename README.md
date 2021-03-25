@@ -1,7 +1,7 @@
-### Para sua execução é necessário
-## 1° Atualizar o yarn, no shell/console do replit apenas digite o comando "yarn"
-## 2° Inicializar o yarn, com o comando "yarn run"
-## 3° Dar start no programa, o yarn vai dar algumas opções, você deve digitar "start" e esperar compilar
+# Para sua execução é necessário
+### 1° Atualizar o yarn, no shell/console do replit apenas digite o comando "yarn"
+### 2° Inicializar o yarn, com o comando "yarn run"
+### 3° Dar start no programa, o yarn vai dar algumas opções, você deve digitar "start" e esperar compilar
 
 ## Trabalho feito por
 
