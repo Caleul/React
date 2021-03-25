@@ -5,8 +5,8 @@
 
 ## Trabalho feito por
 
-Caleul Raposo Caixeta - 171057600060
-Kácio Felipe - 191057600013
+Caleul Raposo Caixeta - 171057600060<br/>
+Kácio Felipe - 191057600013<br/>
 Luis Felipe Rocha Caixeta - 191057600022
 
 #
@@ -18,7 +18,7 @@ In the project directory, you can run:
 
 ### `yarn start`
 
-Runs the app in the development mode.<br />
+Runs the app in the development mode.<br/>
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 The page will reload if you make edits.<br />
